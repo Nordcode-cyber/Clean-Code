@@ -1,0 +1,12 @@
+                                    Polimorfismo
+En el Paradigma de la Programacion orientada a objetos, el polimorfismo permite que diferentes objetos respondan de modo diferente al mismo mensaje. el polimorfismo adquiere su maxima potencia cuando se se utiliza en union con la herencia. el polimorfismo se establece con la ligadura, dinamica de métodos, con la ligadura dinamica no es preciso definir el tipo de objeto, hasta el momento de la ejecución.
+
+                               Uso Del Polimorfismo
+La forma de usar el polimorfismo es atraves de la clase base, para poder utilizar el polimorfismo en Java se debe seguir las siguientes reglas: 1()Crear una jerarquia de clases, con las operaciones importantes, definida por los metodos miembros declarados como abstracto en la clase Base. 2()Las implementaciones especificas de los metodos abstractos se deben hacer en las clases derivadas. Cada clase derivada puede tener su propia versión, del metodo %annadir() varia de un tipo de archivo a otro. 3()Las instancias de estas clases se manejan, a traves de una referencias de la clase base. Este mecanismo es la ligadura dinamica, que es la esencia, del Polimorfismo en Java. No es necesario declarar los metodos de la clase base como abstractos, si despues se redefinen, en la clase Derivada. representacion /*/el polimorfismo se puede representar como un array de elementos que se refiere a objetos de diferentes tipos(clase).
+
+                                     Ventajas del Polimorfismo
+1() Especialización de clases derivadas: El uso mas comun del polimorfismo, es derivar clases especializadas de clases que han sido definidas, P ejem. una Clase Cuadrado es una especialización de la clase rectangulo,(Cualquier cuadrado es un tipo de rectangulo), esta clase de Polimorfismo, aumenta la eficiencia de la subclase, mientras conserva un alto grado de flexibilidad y permite un medio uniforme de manejar rectangulos y cuadrados.
+
+2() Estructura de datos heterogeneos: A veces es muy util poder manejas conjunto similares de objetos. Con el polimorfismo se pueden crear y manejar, facilmente estructuras de datos heterogeneos, que son faciles de diseñar y dibujar, sin perder la comprobación de tipos de elememtos utlilizados.
+
+3() Gestión de una jerarquia de clase, las jerarquia de clase son colecciones de clases altamente estructuradas, con relaciones de herencia, que se pueden extender facilmente.
