@@ -1,4 +1,4 @@
-package solid.principioresponsabilidadunica.clases;
+package solid.SRP.clases;
 public class Empleado{
     protected String nombre;
     protected String apellido;
