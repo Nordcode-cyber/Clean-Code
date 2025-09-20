@@ -6,11 +6,11 @@
          - 🚀 Reutilizacion.
          - 🚀 Extensibilidad.
 ####   -🚀Principios SOLID.
-          -🚀 Principio de responsabilidad Unica.
-          -🚀 Principio Abierto/Cerrado.
-          -🚀 Principio de Sustitucion de Liskov.
-          -🚀 Principio de segregacion de la interfaz.
-          -🚀 Principio de inversion de la dependencia.
+          -🚀(S) Principio de responsabilidad Unica.
+          -🚀(O) Principio Abierto/Cerrado.
+          -🚀(L) Principio de Sustitucion de Liskov.
+          -🚀(I) Principio de segregacion de la interfaz.
+          -🚀(D)Principio de inversion de la dependencia.
 ####   -🚀Patrones Creacionales.
           -🚀 Factory Method.
           -🚀 Abstract Factory.
