@@ -1,7 +1,7 @@
 #   🚀 Patrones de diseño
-##     🚀Fundamentos de la POO
-###            ⚡Jerarquia de Clases
-            ⚡Herencia y Polimorfismo
+- 🚀 Fundamentos de la POO.  
+     - 🚀 Herencia.
+     - 🚀 polimorfismo
 ##     🚀Principio del Diseño de Software
 ##     🚀Principios SOLID.
 ##     🚀Patrones Creacionales
