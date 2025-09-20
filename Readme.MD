@@ -10,7 +10,7 @@
           -🚀(O) Principio Abierto/Cerrado.
           -🚀(L) Principio de Sustitucion de Liskov.
           -🚀(I) Principio de segregacion de la interfaz.
-          -🚀(D)Principio de inversion de la dependencia.
+          -🚀(D) Principio de inversion de la dependencia.
 ####   -🚀Patrones Creacionales.
           -🚀 Factory Method.
           -🚀 Abstract Factory.
