@@ -1,5 +1,8 @@
 package solid.SRP.clases;
 public class Empleado{
+   /*
+     * Single Responsability Principle
+     */
     protected String nombre;
     protected String apellido;
     protected int edad;
@@ -29,5 +32,6 @@ public class Empleado{
     public void setEdad(int edad) {
         this.edad = edad;
     }
+    
     
 }

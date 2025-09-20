@@ -1,4 +1,4 @@
-package solid.principioresponsabilidadunica.clases;
+package solid.SRP.clases;
 
 import java.util.Date;
 
