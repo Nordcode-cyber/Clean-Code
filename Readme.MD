@@ -1,7 +1,7 @@
 ##   🚀 Patrones de diseño
 ####   - 🚀 Fundamentos de la POO.  
          - 🚀 Herencia.
-         - 🚀 polimorfismo
+         - 🚀 polimorfismo.
 ####   - 🚀Principio del Diseño de Software
          - 🚀 Reutilizacion.
          - 🚀 Extensibilidad.
@@ -10,7 +10,31 @@
           -🚀 Principio Abierto/Cerrado.
           -🚀 Principio de Sustitucion de Liskov.
           -🚀 Principio de segregacion de la interfaz.
-          -🚀 Principio de inversion de la dependencia
-####     🚀Patrones Creacionales
-####     🚀Patrones Estructurales.
-####    🚀Patrones de comportamiento.
+          -🚀 Principio de inversion de la dependencia.
+####   -🚀Patrones Creacionales.
+          -🚀 Factory Method.
+          -🚀 Abstract Factory.
+          -🚀 Builder.
+          -🚀 Prototype.
+          -🚀 Singleton.
+
+####   -🚀Patrones Estructurales.
+           -🚀 Adapter.
+           -🚀 Bridge.
+           -🚀 Composite.
+           -🚀 Decorator.
+           -🚀 Facade.
+           -🚀 Flyweight.
+           -🚀 Proxy.
+
+####   -🚀Patrones de Comportamiento.
+           -🚀 Chain of Responsibility.
+           -🚀 Command.
+           -🚀 Iterator.
+           -🚀 Mediator.
+           -🚀 Memento.
+           -🚀 Observer.
+           -🚀 State.
+           -🚀 Strategy.
+           -🚀 Template Method.
+           -🚀 Visitor.
