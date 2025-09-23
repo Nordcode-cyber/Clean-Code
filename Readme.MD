@@ -3,8 +3,11 @@
          - 🚀 Herencia.
          - 🚀 polimorfismo.
 ####   - 🚀Principio del Diseño de Software
-         - 🚀 Reutilizacion.
+         - 🚀 Reutilizacion del codigo.
          - 🚀 Extensibilidad.
+         - 🚀 Encapsulacion lo que varia.
+         - 🚀 Programa una interfaz, no a la implementación.
+         - 🚀 Favorece la composición sobre la herencia
 ####   -🚀Principios SOLID.
           -🚀(S) Principio de responsabilidad Unica.
           -🚀(O) Principio Abierto/Cerrado.
