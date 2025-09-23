@@ -45,3 +45,10 @@ a realizar cambios, más tiempo tendrás para implementar
 funciones.
 
 ### Programa a una interfaz, no a una implementación.
+Programa a una interfaz, no a una implementación. Depende de abstracciones, no de clases concretas.
+Sabrás que el diseño es lo suficientemente flexible si puedes extenderlo con facilidad y sin descomponer el código existente.
+Vamos a asegurarnos de que esta afirmación es correcta,viendo un nuevo ejemplo con gatos. Un Gato que puede
+comer cualquier comida es más flexible que uno que sólo puede comer salchichas. Al primer gato le puedes dar salchichas
+porque éstas son un subgrupo de “cualquier comida”, pero puedes extender el menú de ese gato con cualquier otra
+comida. Cuando quieres hacer que dos clases colaboren, puedes comenzar por hacer una dependiente de la otra. Caramba, yo mismo
+suelo empezar haciendo eso. Sin embargo, hay otra forma más flexible de establecer la colaboración entre objetos:
